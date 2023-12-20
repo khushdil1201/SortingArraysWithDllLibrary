@@ -1,0 +1,6 @@
+C:\Users\ASUS\Desktop\sort_dll\SortArrayLibrary\bin\Debug\SortArrayLibrary.dll
+C:\Users\ASUS\Desktop\sort_dll\SortArrayLibrary\bin\Debug\SortArrayLibrary.pdb
+C:\Users\ASUS\Desktop\sort_dll\SortArrayLibrary\obj\Debug\SortArrayLibrary.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\sort_dll\SortArrayLibrary\obj\Debug\SortArrayLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\sort_dll\SortArrayLibrary\obj\Debug\SortArrayLibrary.dll
+C:\Users\ASUS\Desktop\sort_dll\SortArrayLibrary\obj\Debug\SortArrayLibrary.pdb

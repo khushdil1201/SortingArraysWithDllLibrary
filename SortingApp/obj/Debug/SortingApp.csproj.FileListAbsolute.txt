@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\sort_dll\SortingApp\bin\Debug\SortingApp.exe.config
+C:\Users\ASUS\Desktop\sort_dll\SortingApp\bin\Debug\SortingApp.exe
+C:\Users\ASUS\Desktop\sort_dll\SortingApp\bin\Debug\SortingApp.pdb
+C:\Users\ASUS\Desktop\sort_dll\SortingApp\bin\Debug\SortArrayLibrary.dll
+C:\Users\ASUS\Desktop\sort_dll\SortingApp\bin\Debug\SortArrayLibrary.pdb
+C:\Users\ASUS\Desktop\sort_dll\SortingApp\obj\Debug\SortingApp.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\sort_dll\SortingApp\obj\Debug\SortingApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\sort_dll\SortingApp\obj\Debug\SortingApp.Form1.resources
+C:\Users\ASUS\Desktop\sort_dll\SortingApp\obj\Debug\SortingApp.Properties.Resources.resources
+C:\Users\ASUS\Desktop\sort_dll\SortingApp\obj\Debug\SortingApp.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\sort_dll\SortingApp\obj\Debug\SortingApp.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\sort_dll\SortingApp\obj\Debug\SortingApp.csproj.CopyComplete
+C:\Users\ASUS\Desktop\sort_dll\SortingApp\obj\Debug\SortingApp.exe
+C:\Users\ASUS\Desktop\sort_dll\SortingApp\obj\Debug\SortingApp.pdb
